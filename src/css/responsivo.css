@@ -1,0 +1,14 @@
+@media (max-width: 900px) {
+    
+    .logo {
+    max-width: 230px;
+    
+    }
+
+    .imagen-botao{
+        max-width: 150px;
+        padding: 5px;
+    }
+    
+
+}
