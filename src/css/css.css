@@ -87,7 +87,7 @@ main .cartas:hover {
 }
 .modo-escuro .cartas
 {
-    background-image: url("/src/Imagens/vecna.png");
+    background-image: url("/src/Imagena/vecna.png");
     color: rgb(205, 240, 79);
 
 }
